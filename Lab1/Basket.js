@@ -1,4 +1,4 @@
-var prodcuts = [{
+var prodcuts = [{ //test1
 	name : "test",
 	price : 12.9,
 	inventory : 20
